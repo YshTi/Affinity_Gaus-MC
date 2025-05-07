@@ -29,3 +29,7 @@ Here is descriptions of files you see:
 * "driver_old_version.ipynb" - code for *affinity tool* with all the parameters are generated with Gaussian distribution  
 
 ## **Please note, that all these files do not contain any changes which were suggested at the meeting on 14th of April 2025**
+
+
+07.05.2025
+New folder "Updates" contains all the needed information for the last version of calculations
