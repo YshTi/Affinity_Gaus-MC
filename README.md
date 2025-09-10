@@ -24,11 +24,10 @@ Here is descriptions of files you see:
 * "Region Indicators MC VS Gaussian.ipynb" - code for plotting region indicators
 * "Region Indicators MC VS Gaussian + kinematics.ipynb" - code for plotting region indicators + kinematics
 * "driver_Gaussian_plus_filter.ipynb" - code for *affinity tool* with the condition $k_{it}^2 - M_{ki}^2$
-* "driver_Rowan_Non_pert.ipynb" - code for *affinity tool* with all the parameters (non-perturbative, partonic) taken from MC generation
-* "driver_Rowan_Alexey_suggestions.ipynb" - code for *affinity tool* with parameters $M_{ki}$, $k_{it}$ and $\delta k_t$ taken from MC generation
+* "driver_MC_Non_pert.ipynb" - code for *affinity tool* with all the parameters (non-perturbative, partonic) taken from MC generation
 * "driver_old_version.ipynb" - code for *affinity tool* with all the parameters are generated with Gaussian distribution  
 
-## **Please note, that all these files do not contain any changes which were suggested at the meeting on 14th of April 2025**
+## **This is the up-to-date version of tool for 2025**
 
 
 07.05.2025
